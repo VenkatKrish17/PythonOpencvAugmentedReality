@@ -1,0 +1,32 @@
+# Exported from 3D Builder
+
+newmtl FBXASC050FBXASC04601SG_0
+Kd 0.949020 0.949020 0.949020
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd bltissue.jpg
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl FBXASC050FBXASC04610SG_0
+Kd 1.000000 1.000000 0.929412
+
+newmtl Rectangle48SG_0
+Kd 0.160784 0.160784 0.160784
